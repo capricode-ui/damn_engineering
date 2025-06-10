@@ -26,10 +26,6 @@ This repository contains well-explained solutions to popular **LeetCode problems
 
 Contributions and suggestions are welcome! Feel free to open issues or submit pull requests to improve the solutions or add new problems.
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 Happy coding! 🚀  
