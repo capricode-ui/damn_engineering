@@ -1,6 +1,6 @@
 # Damn Engineering – LeetCode Solutions in Java, C++, Python & JavaScript
 
-Welcome to the official code repository for the [**Damn Engineering**](https://www.youtube.com/@damnengineering) YouTube channel!
+Welcome to the official code repository for the [**Damn Engineering**](https://www.youtube.com/@damnengineering26) YouTube channel!
 
 This repository contains well-explained solutions to popular **LeetCode problems**, as discussed in our videos. Each problem is solved using **Java**, **C++**, **Python**, and **JavaScript**, allowing you to compare approaches across languages.
 
