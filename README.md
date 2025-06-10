@@ -20,7 +20,7 @@ This repository contains well-explained solutions to popular **LeetCode problems
 
 ## About Damn Engineering
 
-[Damn Engineering YouTube Channel](https://www.youtube.com/@damnengineering) is dedicated to helping developers improve their coding skills, especially in solving algorithm and data structure problems from platforms like LeetCode.
+[Damn Engineering YouTube Channel](https://www.youtube.com/@damnengineering26) is dedicated to helping developers improve their coding skills, especially in solving algorithm and data structure problems from platforms like LeetCode.
 
 ## Contributing
 
@@ -33,5 +33,5 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ---
 
 Happy coding! 🚀  
-Don’t forget to subscribe and turn on notifications on our [YouTube channel](https://www.youtube.com/@damnengineering) for the latest tutorials and problem walkthroughs.
+Don’t forget to subscribe and turn on notifications on our [YouTube channel](https://www.youtube.com/@damnengineering26) for the latest tutorials and problem walkthroughs.
 
