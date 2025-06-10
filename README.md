@@ -1,17 +1,37 @@
-📘 Damn Engineering – LeetCode Solutions in Java, C++, Python & JavaScript
-Welcome to the official code repository for the Damn Engineering YouTube channel!
+# Damn Engineering – LeetCode Solutions in Java, C++, Python & JavaScript
 
-This repository contains well-explained solutions to popular LeetCode problems, as discussed in our videos. Each problem is solved using Java, C++, Python, and JavaScript, allowing you to compare approaches across languages.
+Welcome to the official code repository for the [**Damn Engineering**](https://www.youtube.com/@damnengineering) YouTube channel!
 
-🔍 What You’ll Find:
-✅ Clean and beginner-friendly code
+This repository contains well-explained solutions to popular **LeetCode problems**, as discussed in our videos. Each problem is solved using **Java**, **C++**, **Python**, and **JavaScript**, allowing you to compare approaches across languages.
 
-💡 Multiple language implementations (Java, C++, Python, JavaScript)
+## What You’ll Find
 
-🎥 Direct mapping to video explanations on YouTube
+- ✅ Clean, beginner-friendly code  
+- 💡 Multiple language implementations (Java, C++, Python, JavaScript)  
+- 🎥 Code directly linked to video explanations on YouTube  
+- 📚 Ideal for coding interview preparation and data structures & algorithms practice
 
-📚 Useful for coding interviews and DSA practice
+## How to Use This Repository
 
-📺 Subscribe and Learn
-Explore in-depth tutorials and coding strategies by subscribing to our YouTube channel:
-👉 Damn Engineering on YouTube
+1. Browse the folders corresponding to each programming language.  
+2. Find the problem you want to practice.  
+3. Review the solution code and try to understand the approach.  
+4. Watch the related video on the Damn Engineering YouTube channel for an in-depth explanation.
+
+## About Damn Engineering
+
+[Damn Engineering YouTube Channel](https://www.youtube.com/@damnengineering) is dedicated to helping developers improve their coding skills, especially in solving algorithm and data structure problems from platforms like LeetCode.
+
+## Contributing
+
+Contributions and suggestions are welcome! Feel free to open issues or submit pull requests to improve the solutions or add new problems.
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Happy coding! 🚀  
+Don’t forget to subscribe and turn on notifications on our [YouTube channel](https://www.youtube.com/@damnengineering) for the latest tutorials and problem walkthroughs.
+
