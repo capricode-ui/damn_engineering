@@ -5,6 +5,8 @@ Welcome to the official code repository for the [**Damn Engineering**](https://w
 
 This repository contains well-explained solutions to popular **LeetCode problems**, as discussed in our videos. Each problem is solved using **Java**, **C++**, **Python**, and **JavaScript**, allowing you to compare approaches across languages.
 
+You can find the entire Leetcode solutions playlist over here:[**Click Here to Open Playlist**](https://youtube.com/playlist?list=PLHV8V5iHbUHJmXkxlGxGKwjT5Is_poRd4&si=4KGp-55idm3UyCRk)
+
 ## What You’ll Find
 
 - ✅ Clean, beginner-friendly code  
