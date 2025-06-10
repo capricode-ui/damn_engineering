@@ -1,4 +1,4 @@
-# Damn Engineering – LeetCode Solutions in Java, C++, Python & JavaScript
+# Damn Engineering – LeetCode Solutions in C++, Java, Python & JavaScript
 
 Welcome to the official code repository for the [**Damn Engineering**](https://www.youtube.com/@damnengineering26) YouTube channel!
 
